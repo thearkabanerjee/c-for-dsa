@@ -12,7 +12,7 @@ using namespace std;
 // first element will go is unknown
 
 int main(){
-    int array[3]= {1, 2, 3};
+    int array[3]= {1, 2, 3}; // you can just be 
     cout << array<< endl;
 // this doesnt cout the array thou. it probably gives out the memory location or something similar.
     return 0;
